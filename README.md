@@ -14,6 +14,9 @@ The port works by loading the official Android ARMv7 executable in memory, resol
 
 ## Changelog
 
+### v1.71 by FXRSTDAY
+- Now I can compile this code of gode :)
+
 ### v1.7
 
 - Added controls mapping configuration through the companion app. Thanks to Rinnegatamante.
